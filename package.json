@@ -1,0 +1,23 @@
+{
+  "name": "produtos-api",
+  "version": "1.0.0",
+  "description": "Api Cadastro de Produtos (Json-Server, Node)",
+  "main": "servere.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudioRogerioTeixeira/produtos-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaudioRogerioTeixeira/produtos-api/issues"
+  },
+  "homepage": "https://github.com/ClaudioRogerioTeixeira/produtos-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

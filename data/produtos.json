@@ -1,0 +1,23 @@
+[
+  {    
+    "nome": "Mouse",
+    "descricao": "Mouse sem fio",
+    "preco": 25.99, 
+    "marca": "Microsoft",
+    "Categoria": "Informática"
+  },
+  {    
+    "nome": "NoteBook",
+    "descricao": "NoteBook Gamer",
+    "preco": 5000.99, 
+    "marca": "Asus",
+    "Categoria": "Informática"
+  },
+  {    
+    "nome": "Impressora Jato de Tinta",
+    "descricao": "Impressora Jato de Tinta",
+    "preco": 1500.00, 
+    "marca": "Epson",
+    "Categoria": "Impressoras"
+  }
+]

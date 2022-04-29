@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "descricao": "Asus"
+  },
+  {
+    "id": "2",
+    "descricao": "Epson"
+  },
+  {
+    "id": "3",
+    "descricao": "HP"
+  },
+  {
+    "id": "4",
+    "descricao": "Samsung"
+  },
+  {
+    "id": "5",
+    "descricao": "Microsoft"
+  }
+]

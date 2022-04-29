@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "descricao": "Bebidas"
+  },
+  {
+    "id": "2",
+    "descricao": "Higiene"
+  },
+  {
+    "id": "3",
+    "descricao": "Carnes"
+  },
+  {
+    "id": "4",
+    "descricao": "Limpeza"
+  },
+  {
+    "id": "5",
+    "descricao": "Informática"
+  },
+  {
+    "id": "6",
+    "descricao": "Hortfruti"
+  },
+  {
+    "id": "7",
+    "descricao": "Laticínicos/frios"
+  },
+  {
+    "id": "8",
+    "descricao": "Impressoras"
+  }
+]
