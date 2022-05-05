@@ -1,23 +1,72 @@
 [
-  {    
+  {
+    "id": 1,    
     "nome": "Mouse",
     "descricao": "Mouse sem fio",
+    "tipo": "Básico",
     "preco": 25.99, 
     "marca": "Microsoft",
-    "categoria": "Informática"
+    "categoria": "Informática",
+    "data": "2022-05-05T03:00:00.000Z"
   },
-  {    
+  {
+    "id": 2,    
     "nome": "NoteBook",
     "descricao": "NoteBook Gamer",
-    "preco": 5000.99, 
+    "tipo": "Premium",
+    "preco": 5000.99,
     "marca": "Asus",
-    "categoria": "Informática"
+    "categoria": "Informática",
+    "data": "2022-05-05T03:00:00.000Z"
   },
-  {    
+  {
+    "id": 3,    
     "nome": "Impressora Jato de Tinta",
     "descricao": "Impressora Jato de Tinta",
+    "tipo": "Padrão",
     "preco": 1500.00, 
     "marca": "Epson",
-    "categoria": "Impressoras"
-  }
+    "categoria": "Impressoras",
+    "data": "2022-05-05T03:00:00.000Z"
+  },
+  {
+    "id": 4,    
+    "nome": "Teste",
+    "descricao": "Teste",
+    "tipo": "Padrão",
+    "preco": 1500.00, 
+    "marca": "HP",
+    "categoria": "Impressoras",
+    "data": "2022-05-05T03:00:00.000Z"
+  },
+  {
+    "id": 5,    
+    "nome": "Teste 1",
+    "descricao": "Teste 1",
+    "tipo": "Padrão",
+    "preco": 1500.00, 
+    "marca": "Epson",
+    "categoria": "Impressoras",
+    "data": "2022-05-05T03:00:00.000Z"
+  },
+  {
+    "id": 6,    
+    "nome": "Teste 2",
+    "descricao": "Teste 2",
+    "tipo": "Padrão",
+    "preco": 1500.00, 
+    "marca": "Epson",
+    "categoria": "Impressoras",
+    "data": "2022-05-05T03:00:00.000Z"
+  },
+  {
+    "id": 7,    
+    "nome": "Teste 3",
+    "descricao": "Teste 3",
+    "tipo": "Padrão",
+    "preco": 1500.00, 
+    "marca": "Epson",
+    "categoria": "Impressoras",
+    "data": "2022-05-05T03:00:00.000Z"
+  }  
 ]
