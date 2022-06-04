@@ -28,45 +28,5 @@
     "marca": "Epson",
     "categoria": "Impressoras",
     "data": "2022-05-05T03:00:00.000Z"
-  },
-  {
-    "id": 4,    
-    "nome": "Teste",
-    "descricao": "Teste",
-    "tipo": "Padrão",
-    "preco": 1500.00, 
-    "marca": "HP",
-    "categoria": "Impressoras",
-    "data": "2022-05-05T03:00:00.000Z"
-  },
-  {
-    "id": 5,    
-    "nome": "Teste 1",
-    "descricao": "Teste 1",
-    "tipo": "Padrão",
-    "preco": 1500.00, 
-    "marca": "Epson",
-    "categoria": "Impressoras",
-    "data": "2022-05-05T03:00:00.000Z"
-  },
-  {
-    "id": 6,    
-    "nome": "Teste 2",
-    "descricao": "Teste 2",
-    "tipo": "Padrão",
-    "preco": 1500.00, 
-    "marca": "Epson",
-    "categoria": "Impressoras",
-    "data": "2022-05-05T03:00:00.000Z"
-  },
-  {
-    "id": 7,    
-    "nome": "Teste 3",
-    "descricao": "Teste 3",
-    "tipo": "Padrão",
-    "preco": 1500.00, 
-    "marca": "Epson",
-    "categoria": "Impressoras",
-    "data": "2022-05-05T03:00:00.000Z"
-  }  
+  }
 ]

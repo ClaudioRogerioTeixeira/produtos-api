@@ -11,5 +11,5 @@ Api Cadastro de Produtos (Node, Json-Server)
 - node server.js
 
 ## Considerações:
-- API desenvolvida para o Cadastro de Produtos projeto Angular.
+- API desenvolvida para o Cadastro de Produtos projeto Angular e Vue.
 
